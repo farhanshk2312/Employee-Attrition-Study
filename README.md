@@ -10,13 +10,13 @@ ________________________________________
 🔹 Data Pipeline & Tools
 
 1.	Data Source & Storage:
-o	Raw HR dataset stored in MySQL.
-o	Performed feature transformations (e.g., categorizing Age, Salary Bands, Promotion Years, Work-Life Balance, etc.) before loading into the BI layer.
+   Raw HR dataset stored in MySQL.
+   Performed feature transformations (e.g., categorizing Age, Salary Bands, Promotion Years, Work-Life Balance, etc.) before loading into the BI layer.
 
 2.	Exploratory Data Analysis (Python):
-o	Conducted Age distribution analysis (young, mid, senior employee buckets).
-o	Ran correlation analysis to detect relationships between attrition and features.
-o	Example: YearsWithCurrManager (-0.156), Age (-0.159), MonthlyIncome (-0.159), and TotalWorkingYears (-0.171) showed moderate negative correlation with attrition, meaning attrition tends to be higher among less experienced, lower-paid, and younger employees.
+   Conducted Age distribution analysis (young, mid, senior employee buckets).
+   Ran correlation analysis to detect relationships between attrition and features.
+   Example: YearsWithCurrManager (-0.156), Age (-0.159), MonthlyIncome (-0.159), and TotalWorkingYears (-0.171) showed moderate negative correlation with attrition, meaning attrition tends to be higher among less experienced, lower-paid, and younger employees.
 
 3.	Data Visualization (Power BI):
 o	Built calculated columns for categories (Age Groups, Years in Role, Promotion Status, etc.).
