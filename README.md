@@ -1,4 +1,4 @@
-HR Attrition Analysis Dashboard
+# HR Attrition Analysis Dashboard
 
 Data Source: https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance
 
