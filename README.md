@@ -19,12 +19,19 @@ o	Built calculated columns for categories (Age Groups, Years in Role, Promotion 
 o	Developed domain-specific ratios and KPIs using DAX to quantify attrition drivers.
 ________________________________________
 🔹 Key DAX Measures & Ratios
+
 •	Attrition Rate: Overall % of employees leaving the company.
+
 •	Attrition–Workload Ratio: Employees leaving relative to overtime burden (30.53%).
+
 •	Compensation Stability Ratio: Attrition in low salary band employees (28.6%).
+
 •	High Performer Attrition Ratio: Attrition among top-rated employees with delayed promotions (14.2%).
+
 •	Work-Life Balance Attrition Ratio: Attrition among poor work-life balance employees (31.3%).
+
 •	Overtime Impact, Distance from Home Grouping, Job Satisfaction Levels, Environment Satisfaction categories — all created via DAX to support segmented analysis.
+
 ________________________________________
 🔹 Insights & Findings
 1.	Overtime Impact – Employees working overtime show disproportionately high attrition, suggesting burnout.
