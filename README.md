@@ -71,4 +71,4 @@ ________________________________________
 # Conclusion
 
 The analysis confirmed that attrition is not random — it is driven by identifiable factors like salary, overtime, promotions, job satisfaction, and work-life balance. By monitoring these metrics, HR can proactively design interventions such as better compensation planning, promotion policies, flexible schedules, and employee engagement initiatives to improve retention.
-This project demonstrates a complete data analysis lifecycle — from SQL-based storage, Python-driven correlation analysis, DAX-powered KPIs, and Power BI dashboarding — making it a strong addition to a professional portfolio.
+This project demonstrates a complete data analysis lifecycle — from SQL-based storage, Python-driven correlation analysis, DAX-powered KPIs, and Power BI dashboarding.
