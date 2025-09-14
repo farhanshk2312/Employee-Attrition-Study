@@ -2,6 +2,8 @@
 
 Data Source: https://www.kaggle.com/code/faressayah/ibm-hr-analytics-employee-attrition-performance
 
+Power BI report: https://app.powerbi.com/reportEmbed?reportId=3e3e0471-13d7-4a73-ab7d-2efc393808db&autoAuth=true&ctid=25ce0261-bbd6-49cd-a1e2-54260886d159
+
 # Project Overview
 
 This project focuses on analyzing employee attrition patterns within an organization, aiming to uncover the key drivers of employee turnover and recommend actionable strategies. The solution integrates SQL for data storage and preprocessing, Python for exploratory data analysis and correlation studies, and Power BI for interactive dashboards powered by DAX measures.
@@ -69,4 +71,4 @@ ________________________________________
 # Conclusion
 
 The analysis confirmed that attrition is not random — it is driven by identifiable factors like salary, overtime, promotions, job satisfaction, and work-life balance. By monitoring these metrics, HR can proactively design interventions such as better compensation planning, promotion policies, flexible schedules, and employee engagement initiatives to improve retention.
-This project demonstrates a complete data analysis lifecycle — from SQL-based storage, Python-driven correlation analysis, DAX-powered KPIs, and Power BI dashboarding — making it a strong addition to a professional portfolio.
+This project demonstrates a complete data analysis lifecycle — from SQL-based storage, Python-driven correlation analysis, DAX-powered KPIs, and Power BI dashboarding.
